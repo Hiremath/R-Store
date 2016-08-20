@@ -1,2 +1,0 @@
-# R-Store
-Retail Store
